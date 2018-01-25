@@ -1,0 +1,64 @@
+#wrapper{
+background-color: blueviolet;
+}
+#about_header{
+background-color: grey;
+display: inline-block;
+vertical-align: top;
+width: 200px;
+height: 350px;
+margin-left: 50px;
+}
+#la_mode{
+background-color: grey;
+display:inline-block;
+vertical-align: top;
+margin: 10px;
+}
+#familiy_contacts{
+background-color: grey;
+display: inline-block;
+vertical-align: top;
+margin: 10px;
+}
+
+#five{
+ background-color: grey;
+display: inline-block;
+vertical-align: top;
+margin: 10px;
+
+}
+
+.subcontent{
+display:inline-block;
+width: 200px;
+}
+
+#footer{
+background-color: white;
+width: 1000px;
+height:20px;
+text-align: center;
+}
+
+.class1{
+width: 200px;
+height:100px;
+}
+.floor{
+width: 10px;
+height: 10px;
+}
+.jayne{
+width: 100px;
+height: 100px;
+}
+.tech{
+height:15px;
+width:15px;
+}
+.jayne{
+height:350px;
+width: 350px; 
+}
